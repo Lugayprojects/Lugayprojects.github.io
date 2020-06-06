@@ -1,2 +1,2 @@
-# Lugayprojects.github.io
-My first published website
+# Юрий Лю
+Mои домашние задания
